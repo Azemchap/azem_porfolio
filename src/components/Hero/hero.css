@@ -12,7 +12,7 @@
 
 .hero {
   text-align: center;
-  padding-top: 8rem;
+  /* padding-top: 8rem; */
 }
 
 .my-info {
@@ -58,6 +58,21 @@
 @media screen and (max-width: 60rem) {
   .navbar {
     display: none;
+  }
+
+  .section-hero h5 {
+    font-size: 1.4rem;
+  }
+  .section-hero h1 {
+    font-size: 2rem;
+  }
+
+  .my-info {
+    margin-top: 2rem;
+  }
+
+  .me {
+    padding: 2rem 1rem 0;
   }
 
   .menu {

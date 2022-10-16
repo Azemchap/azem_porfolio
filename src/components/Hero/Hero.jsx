@@ -3,7 +3,6 @@ import './hero.css'
 import Cta from '../CTA/Cta'
 import ME from '../../assets/azem.png'
 import Socials from '../Socials/Socials'
-import Nav from '../Nav/Nav'
 
 function Hero() {
     return (
@@ -24,7 +23,7 @@ function Hero() {
                     <a href="#contact" className="scroll-down" id="contact">Scroll Down</a>
                 </div>
 
-                <Nav />
+                {/* <Nav /> */}
             </div>
         </section>
     )
