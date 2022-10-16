@@ -10,7 +10,7 @@ function Hero() {
             <div className="container section-hero">
                 <h5>Hello, I'm</h5>
                 <h1>Azemchap Divine</h1>
-                <h4>Fullstack Developer</h4>
+                <h6> Fullstack Developer</h6>
                 <Cta />
 
                 <div className="my-info">

@@ -9,7 +9,7 @@ function Cta() {
     return (
         <div className="cta">
             <a href={CV} download className='btn'>Download CV <AiOutlineFilePdf /></a>
-            <a href="#contact" className='btn btn-primary'> whatsapp <FaWhatsapp /> </a>
+            <a href="#contact" className='btn btn-primary'> Whatsapp <FaWhatsapp /> </a>
         </div>
     )
 }

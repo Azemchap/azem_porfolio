@@ -60,8 +60,8 @@
     display: none;
   }
 
-  .section-hero h5 {
-    font-size: 1.4rem;
+  .section-hero h6 {
+    font-size: 0.9rem;
     color: var(--color-light-variant);
   }
   .section-hero h1 {
