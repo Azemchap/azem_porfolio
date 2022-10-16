@@ -62,9 +62,16 @@
 
   .section-hero h5 {
     font-size: 1.4rem;
+    color: var(--color-light-variant);
+    margin-bottom: 1rem;
   }
   .section-hero h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
+  }
+
+  .section-hero > h4 {
+    color: var(--color-light-variant);
+    font-size: 1rem;
   }
 
   .my-info {
