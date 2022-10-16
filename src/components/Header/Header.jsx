@@ -8,7 +8,7 @@ function Header() {
         <header id='header' className="header">
             <section className='container header-section'>
                 {/* <a href='#' className="logo">azem.tech</a> */}
-                <h4 className="logo">Azem</h4>
+                <h4 className="logo">AZEM</h4>
                 <div className="navbar">
                     {/* <a href="#services">Services</a>
                     <a href="#portfolio">Portfolio</a>
