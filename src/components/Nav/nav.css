@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  gap: 1rem;
+  background-color: var(--color-primary);
+  border-radius: 0.8rem;
+  align-items: center;
+  padding: 1rem;
+  visibility: hidden;
+}
+
+.section-hero .nav a {
+  font-size: 1.4rem;
+  color: var(--color-primary);
+  border-radius: 0.4rem;
+  background-color: var(--color-bg);
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 60rem) {
+  .nav {
+    visibility: visible;
+  }
+}
